@@ -1,0 +1,27 @@
+{
+  "name": "@dreygur/cra-template-ts",
+  "version": "1.2.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "TypeScript Advanced template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreygur/cra-templates.git",
+    "directory": "templates/cra-template-ts"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/dreygur/cra-templates/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
