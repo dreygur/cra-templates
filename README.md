@@ -8,19 +8,19 @@ For example:
 
 ```sh
 # for JavaScript
-npx create-react-app my-app --template @dreygur/cra-templates-ts
+npx create-react-app my-app --template @dreygur/cra-template-ts
 # for TypeScript
-npx create-react-app my-app --template @dreygur/cra-templates-ts
+npx create-react-app my-app --template @dreygur/cra-template-ts
 # for JavaScript with Web3
-npx create-react-app my-app --template @dreygur/cra-templates-js-w3
+npx create-react-app my-app --template @dreygur/cra-template-js-w3
 
 # or
 # for JavaScript
-yarn create react-app my-app --template @dreygur/cra-templates-js
+yarn create react-app my-app --template @dreygur/cra-template-js
 # for TypeScript
-yarn create react-app my-app --template @dreygur/cra-templates-ts
+yarn create react-app my-app --template @dreygur/cra-template-ts
 # for JavaScript with Web3
-yarn create react-app my-app --template @dreygur/cra-templates-js-w3
+yarn create react-app my-app --template @dreygur/cra-template-js-w3
 ```
 
 For more information, please refer to:
