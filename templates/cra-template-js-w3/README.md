@@ -2,16 +2,16 @@
 
 This is an unofficial advanced JavaScript template for [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template @dreygur/cra-templates-js-w3` when creating a new app.
+To use this template, add `--template @dreygur/cra-template-js-w3` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template @dreygur/cra-templates-js-w3
+npx create-react-app my-app --template @dreygur/cra-template-js-w3
 
 # or
 
-yarn create react-app my-app --template @dreygur/cra-templates-js-w3
+yarn create react-app my-app --template @dreygur/cra-template-js-w3
 ```
 
 For more information, please refer to:

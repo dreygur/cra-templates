@@ -2,16 +2,16 @@
 
 This is an unofficial advanced TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template @dreygur/cra-templates-ts` when creating a new app.
+To use this template, add `--template @dreygur/cra-template-ts` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template @dreygur/cra-templates-ts
+npx create-react-app my-app --template @dreygur/cra-template-ts
 
 # or
 
-yarn create react-app my-app --template @dreygur/cra-templates-ts
+yarn create react-app my-app --template @dreygur/cra-template-ts
 ```
 
 For more information, please refer to:
